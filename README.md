@@ -6,4 +6,6 @@ B gomb lenyomásával jelenik meg a bolt, ahol tudunk vásárolni tornyokat. A t
 X gombbal lehet a game over ablakhoz ugrani egyből, csak teszt céljából van benne
 Mozogni WASD-vel lehet, ugrani space-el, shiftet nyomva pedig lehet sprintelni
 
+A játék buildelt verziójához itt a link, csak simán TD néven fut jelenleg: https://drive.google.com/drive/u/0/folders/1C5QsQhdnWo3Kyev_mc99GWTJlrP122yZ
+
 Fábián Gábor
